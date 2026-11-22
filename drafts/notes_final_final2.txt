@@ -1,0 +1,7 @@
+title: TBD
+subtitle: TBD
+speaker: mystery person
+location: room with chairs
+review_status: pending forever
+
+ALTERNATE IDEA: Host a competitive paper-airplane league.

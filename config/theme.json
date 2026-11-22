@@ -1,0 +1,7 @@
+{
+  "theme": "citrus-panic",
+  "accent_colors": ["#AABBCC", "#00BEEF", "#FADE00"],
+  "animated_confetti": false,
+  "sound_effect": "duck.wav",
+  "status": "discarded"
+}

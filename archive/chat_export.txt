@@ -1,0 +1,5 @@
+person_a: Did someone move the stapler?
+person_b: It is behind the plant.
+person_c: The plant is plastic.
+person_a: That explains nothing.
+person_b: Please close this thread.

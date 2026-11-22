@@ -1,0 +1,6 @@
+[INFO] 200 GET /health
+[INFO] 200 GET /favicon.ico
+[WARN] 404 GET /where-is-my-coffee
+[INFO] 204 POST /metrics/flush
+[WARN] 429 GET /too-many-cookies
+[INFO] session ended normally

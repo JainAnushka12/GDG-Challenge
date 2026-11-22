@@ -1,0 +1,15 @@
+RECOVERED EVENT ASSETS
+----------------------
+
+Archive ID: EVT-027
+Export status: partial
+
+This directory was restored from a mixed campaign backup.
+Some files are old drafts from other college events.
+
+The final artwork for the Git & GitHub event was not saved
+in the usual images directory. The backup transfer log may
+explain what happened to it.
+
+Use the final artwork, not an unrelated schedule, to confirm
+the event date.

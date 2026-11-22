@@ -1,0 +1,6 @@
+O    O         O
+  O      X
+       O       O
+
+Possible room layout? Maybe a board game.
+Nobody can remember what the X meant.
